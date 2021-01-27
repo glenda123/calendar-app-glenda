@@ -1,0 +1,20 @@
+body{
+  padding:2%;
+  color: hsl(199, 72%, 50%);
+
+
+
+
+  
+  
+  background-color: lightblue;
+}
+
+
+
+.close{
+  display: flex;
+  justify-content: flex-end;
+  font-size: 18px;
+  
+}
